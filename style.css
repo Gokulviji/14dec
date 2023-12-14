@@ -1,0 +1,82 @@
+body{
+    background-color: yellow;
+}
+.one{
+    background-color: white;
+    width: 20%;
+    height: 700px;
+    margin-top:7%;
+    margin-right: 3%;
+    margin-left: 30%;
+
+}
+.bg{
+    background-image: url(preview.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 98%;
+    height: 330px;
+}
+
+.bg,p{
+    padding-top: 0.5px;
+    text-align: end;
+    padding-right: 10px;
+   
+}
+.bg,img{
+    margin-right: 40px;
+}
+.img1{
+    width: 70px;
+    height: auto;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(93, 10, 10);
+    padding-top: 20px;
+}
+.bg1{
+    text-align: center;
+    margin: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(93, 10, 10);
+    font-size: 15px;
+    margin-top: -10px;
+}
+.bg2{
+    width: 150px;
+    padding-right: 60px;
+    margin-top: -70px;
+}
+.bg3{
+    
+    display: inline;
+    padding: 35px;    
+}
+.bg4{
+    border: 2px solid rgb(93, 10, 10);
+    display: inline-block;
+    padding: 15px 40px;
+    font-size: 15px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: rgb(93, 10, 10);
+   border-radius: 10px;
+   text-decoration: none;
+  margin-right: 10px;
+}
+#watch{
+    padding-right: 40px;
+}
+.sandle{
+    display: flex;
+}
+.two{
+    background-color: white;
+    width: 20%;
+    height: 700px;
+    margin-top: 7%;
+}
